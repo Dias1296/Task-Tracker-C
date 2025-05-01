@@ -13,6 +13,9 @@ void addTask();
 void viewTasks();
 void toggleTaskAsDone();
 void deleteTask();
+void editTaskTitle();
+void showTaskSummary();
+void searchTasksByKeyword();
 
 void saveTasksToFile();
 void loadTasksFromFile();

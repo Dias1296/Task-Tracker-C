@@ -29,6 +29,15 @@ int main()
             case 4:
                 deleteTask();
                 break;
+            case 5:
+                editTaskTitle();
+                break;
+            case 6:
+                showTaskSummary();
+                break;
+            case 7:
+                searchTasksByKeyword();
+                break;
             case 0:
                 printf("Exiting...\n");
                 exit(0);

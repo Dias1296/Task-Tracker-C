@@ -1,2 +1,5 @@
-﻿  task.c
-  TodoListC.vcxproj -> C:\Users\fabio\Desktop\Software\Projects\TodoListC\x64\Debug\TodoListC.exe
+﻿  main.c
+  task.c
+  utils.c
+  Generating Code...
+  TodoListC.vcxproj -> C:\Users\fabio\Desktop\Software\Projects\Task-Tracker-C\TodoListC\x64\Debug\TodoListC.exe
